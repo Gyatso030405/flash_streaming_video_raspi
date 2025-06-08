@@ -1,0 +1,23 @@
+项目结构
+
+  app.py
+  base_camera.py
+  camera_opencv.py
+  static
+      style.css
+      logo.png
+  templates
+     index.html
+
+安装依赖库
+
+   # via pip
+    sudo pip install flask
+
+运行
+
+python app.py
+
+然后打开浏览器，在地址栏中输入：
+
+http://localhost:666
